@@ -1,4 +1,4 @@
-# Shield-BYTES - Desktop Password Manager [INSTALL EDITION]
+# Shield-BYTES - Desktop Password Manager [LOCAL EDITION]
 
 ## Overview
 
