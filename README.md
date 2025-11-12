@@ -69,6 +69,6 @@ The app uses a simple GUI and stores all sensitive data only on your device.
 
 ## Shield-KEYS Browser Extension
 
-If you want an online option, head to the releases page for a downloadable browser extension.
+If you want an online option, head to the releases page for a downloadable browser extension integratable with both Chrome/Edge or Firefox.
 
 ---
