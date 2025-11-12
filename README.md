@@ -67,8 +67,8 @@ The app uses a simple GUI and stores all sensitive data only on your device.
 
 ---
 
-## Problems or Feature Requests?
+## Shield-KEYS Browser Extension
 
-Open an issue or pull request on [GitHub](https://github.com/LJBYTES-cloud/Shield-BYTES).
+If you want an online option, head to the releases page for a downloadable browser extension.
 
 ---
